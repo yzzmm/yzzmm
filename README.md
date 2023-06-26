@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yzzmm
 - 👀 I’m interested in Javascript 
-- 🌱 I’m currently learning Pthon and AICG
+- 🌱 I’m currently learning Python and AICG
 - 💞️ I’m looking to collaborate on smart person
 - 📫 How to reach me: `mantougm#gmail.com`
 
